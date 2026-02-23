@@ -74,4 +74,3 @@ Please download datasets from their official sources:
 - STARE: http://cecas.clemson.edu/~ahoover/stare/
 - CHASE_DB1: https://blogs.kingston.ac.uk/retinal/chasedb1/
 
-Organize them into a structure like:
